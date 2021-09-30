@@ -38,7 +38,7 @@ You can view the deployed version of Jobly [here](https://joblynow.surge.sh/).
 
 ## Authors 
 
-ShareBnB is authored by [Mike Chang](https://github.com/mykeychain) and [Zach Thomas](https://github.com/ZeeTom).
+Jobly is authored by [Zach Thomas](https://github.com/ZeeTom) and [Mike Chang](https://github.com/mykeychain).
 
 <br>
 
